@@ -1,4 +1,4 @@
-# Unconditional Quantum Bit Commitment
+# Unconditionally Secure Quantum Bit Commitment
 #### This repositiory was used to compete in the 2022 UT Austin Fall Fest Hackathon
 
 
