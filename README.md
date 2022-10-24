@@ -4,7 +4,7 @@
 
 **Team Members:** Camron Stringer, Daichi Suwa, Hasith Vattikuti
 
-**Video Link:**
+**Video Link:** https://youtu.be/sWQhr681iJc
 
 
 ## Our Project
